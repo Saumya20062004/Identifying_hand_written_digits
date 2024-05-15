@@ -1,5 +1,2 @@
 Identify hand written digits recognition using logistic regression.
-
-
-
 Sklearn library has inbuilt  dataset of digits which i have use for training and testing my data.
